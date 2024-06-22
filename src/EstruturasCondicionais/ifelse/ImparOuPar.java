@@ -1,3 +1,5 @@
+package EstruturasCondicionais.ifelse;
+
 public class ImparOuPar {
     public static void main(String[] args) {
         int numero = 147;

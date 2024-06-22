@@ -1,3 +1,5 @@
+package Variáveis;
+
 public class TestandoVariaveis {
     public static void main(String[] args) {
         char masculino = 'M';

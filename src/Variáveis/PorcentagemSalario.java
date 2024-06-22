@@ -1,3 +1,5 @@
+package Variáveis;
+
 /* Crie uma classe que calcule 30% de um salário*/
 public class PorcentagemSalario {
     public static void main(String [] args){

@@ -1,3 +1,5 @@
+package EstruturasCondicionais.ifelse;
+
 import java.util.Scanner;
 
 public class TorneioNatacao {

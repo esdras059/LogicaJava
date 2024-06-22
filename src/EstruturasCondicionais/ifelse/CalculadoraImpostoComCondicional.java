@@ -1,3 +1,5 @@
+package EstruturasCondicionais.ifelse;
+
 /*Dado um determinado sálario se o salário for maior que 4500 imprima 30% do valor, senão imprima 10%
 * Diga na impressão se é 30% ou 10%*/
 public class CalculadoraImpostoComCondicional {

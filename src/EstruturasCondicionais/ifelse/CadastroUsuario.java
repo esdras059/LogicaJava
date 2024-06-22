@@ -1,3 +1,5 @@
+package EstruturasCondicionais.ifelse;
+
 import java.util.Scanner;
 public class CadastroUsuario {
     public static void main(String[] args) {

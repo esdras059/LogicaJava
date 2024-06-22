@@ -1,3 +1,5 @@
+package Variáveis;
+
 public class CalculadorDiferencaIdade {
     public static void main(String[] args){
         int firstAge = 40;

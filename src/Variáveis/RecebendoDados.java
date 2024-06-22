@@ -1,3 +1,5 @@
+package Variáveis;
+
 import java.util.Scanner;
 
 public class RecebendoDados {

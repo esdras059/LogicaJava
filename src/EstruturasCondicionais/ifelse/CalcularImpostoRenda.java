@@ -1,3 +1,5 @@
+package EstruturasCondicionais.ifelse;
+
 public class CalcularImpostoRenda {
     public static void main(String[] args) {
         double salario = 3950;
